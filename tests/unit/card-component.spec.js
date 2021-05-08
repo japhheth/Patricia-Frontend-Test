@@ -25,7 +25,7 @@ describe("credit-card.vue", () => {
     });
 
 
-    it("expects the showDetails method to be triggered when clicked", () => {
+    it("expects the showDetails method to be triggered when the button is clicked clicked", () => {
         const showDetails = jest.fn();
         wrapper.setMethods({
             showDetails: showDetails,
