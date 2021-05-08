@@ -9,7 +9,7 @@
     <!-- Card number rendered when eye is turned on and off -->
     <transition name="fade">
       <div class="card-number-text" v-if="obscured">
-        <span v-for="(card, i) in creditCardNumber" :key="i">{{card}}</span>
+        <span v-for="(number, i) in creditCardNumber" :key="i">{{number}}</span>
       </div>
     </transition>
     <div class="d-flex justify-space-between">

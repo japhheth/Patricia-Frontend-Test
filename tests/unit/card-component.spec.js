@@ -11,7 +11,7 @@ describe("credit-card.vue", () => {
         expect(wrapper.exists()).toBeTruthy();
     });
 
-    it("expects eye icon to be off", () => {
+    it("expects obscure to be false", () => {
         expect(wrapper.vm.$data.obscure).toBe(false);
     });
 
