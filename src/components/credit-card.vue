@@ -1,6 +1,6 @@
 <template>
   <div
-    class="card-div pl-lg-9 pl-4 pl-sm-4 pr-4 pr-lg-9 pl-sm-4 pt-4 pb-4 pt-sm-6 pb-sm-6 pt-lg-9 pb-lg-9 d-flex flex-column justify-space-between"
+    class="card-div pl-lg-9 pl-4 pl-sm-4 pr-4 pr-lg-9 pl-sm-4 pt-4 pb-4 pt-sm-6 pb-sm-6 pt-lg-8 pb-lg-8 d-flex flex-column justify-space-between"
   >
     <div class="d-flex justify-space-between">
       <img class="card_header_logo" src="../assets/patricia-logo.png" alt="Particia" />
