@@ -132,10 +132,10 @@ button {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url("../assets/reveal.png");
+  background-image: url("../assets/obscure.png");
 }
 .reveal {
-  background-image: url("../assets/obscure.png");
+  background-image: url("../assets/reveal.png");
 }
 
 button::focus {
